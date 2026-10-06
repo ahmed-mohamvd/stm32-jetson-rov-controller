@@ -214,6 +214,5 @@ the STM32 so the motors can stop even when the Jetson or UART connection fails.
 
 ## Author
 
-Developed and tested by **Ahmed** as part of a student underwater robotics
-project.
+Developed and tested by **Ahmed** 
 
