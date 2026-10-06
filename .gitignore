@@ -1,0 +1,29 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+*.elf
+*.map
+*.list
+*.o
+*.d
+*.su
+*.cyclo
+
+# Local debugger launch files and logs
+*.launch
+*.cfg
+*.log
+
+# Python runtime files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor and operating-system files
+.metadata/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
